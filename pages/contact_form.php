@@ -1,6 +1,6 @@
 <?php
-include "../database/config.php";
-include "../component/header.php" ;
+include "database/config.php";
+include "component/header.php" ;
 ?>
 
 <div class="mt-6 max-w-6xl max-lg:max-w-3xl mx-auto bg-[#2e0249] rounded-lg">
@@ -105,5 +105,5 @@ include "../component/header.php" ;
         </div>
 
 <?php
-include "../component/footer.php" ;
+include "component/footer.php" ;
 ?>

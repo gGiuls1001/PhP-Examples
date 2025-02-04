@@ -1,6 +1,6 @@
 <?php
-include "../database/config.php";
-include "../component/header.php" ;
+include "database/config.php";
+include "component/header.php" ;
 ?>
 <div class="bg-gray-50 font-[sans-serif]">
       <div class="min-h-screen flex flex-col items-center justify-center py-6 px-4">
@@ -60,5 +60,5 @@ include "../component/header.php" ;
     </div>
 
 <?php
-include "../component/footer.php" ;
+include "component/footer.php" ;
 ?>

@@ -40,27 +40,27 @@ define("ROOT_DIR","/GiulianoGiacchi/PhP-Examples/");
                 class='hover:text-[#007bff] text-[#007bff] block font-semibold text-[15px]'>Home</a>
             </li>
             <li class='max-lg:border-b border-gray-300 max-lg:py-3 px-3'><a href='javascript:void(0)'
-              class='hover:text-[#007bff] text-gray-500 block font-semibold text-[15px]'>Team</a>
+              class='hover:text-[#007bff] text-gray-500 block font-semibold text-[15px]'>Artist</a>
             </li>
             <li class='max-lg:border-b border-gray-300 max-lg:py-3 px-3'><a href='javascript:void(0)'
               class='hover:text-[#007bff] text-gray-500 block font-semibold text-[15px]'>Feature</a>
             </li>
-            <li class='max-lg:border-b border-gray-300 max-lg:py-3 px-3'><a href="<?=ROOT_DIR?>pages/blog_list.php"
+            <li class='max-lg:border-b border-gray-300 max-lg:py-3 px-3'><a href="blog"
               class='hover:text-[#007bff] text-gray-500 block font-semibold text-[15px]'>Blog</a>
             </li>
             <li class='max-lg:border-b border-gray-300 max-lg:py-3 px-3'><a href='javascript:void(0)'
               class='hover:text-[#007bff] text-gray-500 block font-semibold text-[15px]'>About</a>
             </li>
-            <li class='max-lg:border-b border-gray-300 max-lg:py-3 px-3'><a href="<?=ROOT_DIR?>pages/contact_form.php"
+            <li class='max-lg:border-b border-gray-300 max-lg:py-3 px-3'><a href="contact"
               class='hover:text-[#007bff] text-gray-500 block font-semibold text-[15px]'>Contact</a>
             </li>
           </ul>
         </div>
 
         <div class='flex max-lg:ml-auto space-x-4'>
-          <a href ="<?=ROOT_DIR?>pages/login.php"
+          <a href ="login"
             class='px-4 py-2 text-sm rounded-full font-bold text-gray-500 border-2 bg-transparent hover:bg-gray-50 transition-all ease-in-out duration-300'>Login</a>
-          <a href ="<?=ROOT_DIR?>pages/register.php"
+          <a href ="register"
             class='px-4 py-2 text-sm rounded-full font-bold text-white border-2 border-[#007bff] bg-[#007bff] transition-all ease-in-out duration-300 hover:bg-transparent hover:text-[#007bff]'>Sign up
               </a>
 

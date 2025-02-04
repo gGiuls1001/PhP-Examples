@@ -1,6 +1,6 @@
 <?php
-include "../database/config.php";
-include "../component/header.php" ;
+include "database/config.php";
+include "component/header.php" ;
 ?>
 <div class="font-[sans-serif] bg-white max-w-4xl flex items-center mx-auto md:h-screen p-4">
       <div class="grid md:grid-cols-3 items-center shadow-[0_2px_10px_-3px_rgba(6,81,237,0.3)] rounded-xl overflow-hidden">
@@ -79,5 +79,5 @@ include "../component/header.php" ;
     </div>
 
 <?php
-include "../component/footer.php" ;
+include "component/footer.php" ;
 ?>

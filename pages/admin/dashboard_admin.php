@@ -1,9 +1,9 @@
 <?php
-include "../../database/config.php";
-include "../../component/header.php" ;
+include "database/config.php";
+include "component/header.php" ;
 ?>
 
 
 <?php
-include "../../component/footer.php" ;
+include "component/footer.php" ;
 ?>
